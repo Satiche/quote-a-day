@@ -1,2 +1,3 @@
 # quote-a-day
-quote-a-day - NodeJs Assignment 1
+NodeJS assignment - module 1 
+https://assignment-1-quote-a-day.herokuapp.com/
